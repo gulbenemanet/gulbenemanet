@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Gülben</h1>
-<h3 align="center">A computer enginner student</h3>
+<h3 align="center">A computer enginner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulbenemanet" alt="gulbenemanet" /></a> </p>
 
